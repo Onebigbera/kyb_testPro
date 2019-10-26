@@ -105,6 +105,7 @@ class Common(BaseView):
         """
         with open(csv_file, 'r', encoding='utf-8-sig') as file:
             reader = csv.reader(file)
+            # use enumerate function to iter lines starts with 1 custom
             for index, row in enumerate(reader, 1):
                 if index == line:
                     return row

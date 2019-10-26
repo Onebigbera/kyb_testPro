@@ -60,3 +60,567 @@
 2019-10-26 00:32:57,317 LoginView.py[line:111] INFO =====click setting button=====
 2019-10-26 00:32:59,297 LoginView.py[line:119] INFO =====click logout=====
 2019-10-26 00:33:00,077 LoginView.py[line:127] INFO =====click commit button=====
+2019-10-26 12:50:41,077 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 12:51:23,929 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 12:51:44,146 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 12:51:44,156 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 12:51:45,183 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 12:51:46,417 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 12:51:52,523 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 12:51:56,249 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 12:52:05,546 registerView.py[line:101] INFO ===User account is: george8191
+2019-10-26 12:52:12,813 registerView.py[line:111] INFO ===User password is: password8191
+2019-10-26 12:52:18,838 registerView.py[line:121] INFO ===User email is: george8191@qq.com
+2019-10-26 12:52:19,539 registerView.py[line:130] INFO ===click to register===
+2019-10-26 12:52:20,140 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 12:52:22,296 registerView.py[line:146] INFO ===click year choice btn===
+2019-10-26 12:52:26,244 registerView.py[line:150] INFO ===select second year===
+2019-10-26 12:52:26,835 registerView.py[line:154] INFO ===start to choose school===
+2019-10-26 12:52:28,019 registerView.py[line:158] INFO ===choose school===
+2019-10-26 12:52:28,918 registerView.py[line:162] INFO ===choose second school
+2019-10-26 12:52:30,807 registerView.py[line:166] INFO ===start to choose your major===
+2019-10-26 12:52:32,071 registerView.py[line:170] INFO ===choose the thirds university===
+2019-10-26 12:52:32,973 registerView.py[line:174] INFO ===choose the second major===
+2019-10-26 12:52:37,171 registerView.py[line:178] INFO ===choose major finished===
+2019-10-26 12:52:37,297 registerView.py[line:182] INFO ===finished perform your personal information
+2019-10-26 12:52:42,547 registerView.py[line:192] INFO =====Welcome to kaoyanbang====
+2019-10-26 12:52:42,547 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 12:52:44,553 registerView.py[line:197] INFO =====check register status=====
+2019-10-26 12:52:45,410 registerView.py[line:207] INFO register success!
+2019-10-26 12:52:45,411 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 12:52:50,794 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 12:59:32,069 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:00:01,895 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 13:00:01,914 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 13:00:03,515 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 13:00:03,572 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 13:00:07,144 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 13:00:09,311 registerView.py[line:86] INFO =====Save button does not exists=====
+2019-10-26 13:00:11,472 registerView.py[line:96] INFO ===User account input does not exist===
+2019-10-26 13:00:13,587 registerView.py[line:106] INFO ===User password input does not exist===
+2019-10-26 13:00:15,699 registerView.py[line:116] INFO ===User email input does not exist===
+2019-10-26 13:00:17,819 registerView.py[line:126] INFO ===register save btn does not exist===
+2019-10-26 13:00:19,926 registerView.py[line:136] INFO ===register fail, register too many times===
+2019-10-26 13:00:22,029 registerView.py[line:184] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-10-26 13:00:24,142 registerView.py[line:189] INFO =====into info does not exist in page =====
+2019-10-26 13:00:24,143 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 13:00:26,251 registerView.py[line:197] INFO =====check register status=====
+2019-10-26 13:00:28,367 registerView.py[line:203] ERROR register Fail!
+2019-10-26 13:00:28,367 common_fun.py[line:83] INFO =====Get register_Fail screen shot=====
+2019-10-26 13:00:29,787 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 13:02:01,672 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:36:40,787 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 13:36:40,790 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:36:56,222 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 13:36:56,233 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 13:36:56,233 test_register.py[line:23] INFO =====test_user_register=====
+2019-10-26 13:36:57,517 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 13:36:58,652 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 13:37:03,533 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 13:37:07,239 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 13:37:15,868 registerView.py[line:101] INFO ===User account is: george6850
+2019-10-26 13:37:23,535 registerView.py[line:111] INFO ===User password is: password6907
+2019-10-26 13:37:29,655 registerView.py[line:121] INFO ===User email is: george5586163.com
+2019-10-26 13:37:30,415 registerView.py[line:130] INFO ===click to register===
+2019-10-26 13:37:31,059 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 13:37:31,059 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 13:37:33,186 registerView.py[line:197] INFO =====check register status=====
+2019-10-26 13:37:35,344 registerView.py[line:203] ERROR register Fail!
+2019-10-26 13:37:35,344 common_fun.py[line:83] INFO =====Get register_Fail screen shot=====
+2019-10-26 13:37:36,797 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 13:37:36,798 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 13:39:00,690 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 13:39:00,693 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:39:17,897 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 13:39:17,902 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 13:39:17,903 test_register.py[line:23] INFO =====test_user_register=====
+2019-10-26 13:39:18,995 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 13:39:19,791 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 13:39:23,473 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 13:39:27,193 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 13:39:35,867 registerView.py[line:101] INFO ===User account is: george7047
+2019-10-26 13:39:43,257 registerView.py[line:111] INFO ===User password is: password6992
+2019-10-26 13:39:49,437 registerView.py[line:121] INFO ===User email is: george5849@163.com
+2019-10-26 13:39:50,137 registerView.py[line:130] INFO ===click to register===
+2019-10-26 13:39:50,737 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 13:39:50,737 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 13:39:53,064 registerView.py[line:197] INFO =====check register status=====
+2019-10-26 13:39:55,202 registerView.py[line:203] ERROR register Fail!
+2019-10-26 13:39:55,202 common_fun.py[line:83] INFO =====Get register_Fail screen shot=====
+2019-10-26 13:39:56,605 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 13:39:56,605 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 13:44:04,180 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 13:44:04,184 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:44:17,729 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 13:44:17,737 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 13:44:17,737 test_register.py[line:23] INFO =====test_user_register=====
+2019-10-26 13:44:18,955 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 13:44:21,105 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 13:44:24,440 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 13:44:28,332 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 13:44:36,835 registerView.py[line:101] INFO ===User account is: george6034
+2019-10-26 13:44:43,994 registerView.py[line:111] INFO ===User password is: password5270
+2019-10-26 13:44:50,029 registerView.py[line:121] INFO ===User email is: george5717@163.com
+2019-10-26 13:44:50,779 registerView.py[line:130] INFO ===click to register===
+2019-10-26 13:44:51,379 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 13:44:53,436 registerView.py[line:184] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-10-26 13:44:55,510 registerView.py[line:189] INFO =====into info does not exist in page =====
+2019-10-26 13:44:55,510 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 13:44:57,615 registerView.py[line:197] INFO =====check register status=====
+2019-10-26 13:44:59,732 registerView.py[line:203] ERROR register Fail!
+2019-10-26 13:44:59,732 common_fun.py[line:83] INFO =====Get register_Fail screen shot=====
+2019-10-26 13:45:01,022 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 13:45:01,022 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 13:47:27,574 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:47:41,000 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 13:47:41,006 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 13:47:42,296 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 13:47:44,522 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 13:47:48,774 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 13:47:52,474 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 13:48:01,002 registerView.py[line:101] INFO ===User account is: george8499
+2019-10-26 13:48:09,188 registerView.py[line:111] INFO ===User password is: password8499
+2019-10-26 13:48:15,245 registerView.py[line:121] INFO ===User email is: george8499@qq.com
+2019-10-26 13:48:15,924 registerView.py[line:130] INFO ===click to register===
+2019-10-26 13:48:16,518 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 13:48:17,535 registerView.py[line:146] INFO ===click year choice btn===
+2019-10-26 13:48:21,329 registerView.py[line:150] INFO ===select second year===
+2019-10-26 13:48:21,802 registerView.py[line:154] INFO ===start to choose school===
+2019-10-26 13:48:23,119 registerView.py[line:158] INFO ===choose school===
+2019-10-26 13:48:24,052 registerView.py[line:162] INFO ===choose second school
+2019-10-26 13:48:26,005 registerView.py[line:166] INFO ===start to choose your major===
+2019-10-26 13:48:27,503 registerView.py[line:170] INFO ===choose the thirds university===
+2019-10-26 13:48:28,350 registerView.py[line:174] INFO ===choose the second major===
+2019-10-26 13:48:32,395 registerView.py[line:178] INFO ===choose major finished===
+2019-10-26 13:48:32,610 registerView.py[line:182] INFO ===finished perform your personal information
+2019-10-26 13:48:37,752 registerView.py[line:192] INFO =====Welcome to kaoyanbang====
+2019-10-26 13:48:37,752 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 13:48:40,384 registerView.py[line:197] INFO =====check register status=====
+2019-10-26 13:48:41,147 registerView.py[line:207] INFO register success!
+2019-10-26 13:48:41,147 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 13:48:42,836 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 13:54:32,412 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 13:54:32,414 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:54:46,530 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 13:54:46,539 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 13:54:46,539 test_register.py[line:23] INFO =====test_user_register=====
+2019-10-26 13:54:47,679 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 13:54:48,609 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 13:54:54,922 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 13:54:58,258 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 13:55:06,741 registerView.py[line:101] INFO ===User account is: george5165
+2019-10-26 13:55:14,157 registerView.py[line:111] INFO ===User password is: password6085
+2019-10-26 13:55:20,406 registerView.py[line:121] INFO ===User email is: george5824@qq.com
+2019-10-26 13:55:21,088 registerView.py[line:130] INFO ===click to register===
+2019-10-26 13:55:21,726 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 13:55:21,726 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 13:56:58,795 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 13:56:58,798 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 13:57:12,096 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 13:57:12,101 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 13:57:12,101 test_register.py[line:23] INFO =====test_user_register=====
+2019-10-26 13:57:13,212 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 13:57:14,602 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 13:57:18,411 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 13:57:22,105 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 13:57:30,596 registerView.py[line:101] INFO ===User account is: george7165
+2019-10-26 13:57:37,864 registerView.py[line:111] INFO ===User password is: password6127
+2019-10-26 13:57:44,209 registerView.py[line:121] INFO ===User email is: george7843@qq.com
+2019-10-26 13:57:44,954 registerView.py[line:130] INFO ===click to register===
+2019-10-26 13:57:45,543 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 13:57:45,543 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 14:00:23,471 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 14:00:23,473 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 14:00:37,079 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 14:00:37,084 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 14:00:37,085 test_register.py[line:23] INFO =====test_user_register=====
+2019-10-26 14:00:39,618 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 14:00:40,401 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 14:00:45,938 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 14:00:49,564 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 14:00:58,025 registerView.py[line:101] INFO ===User account is: george6267
+2019-10-26 14:01:05,436 registerView.py[line:111] INFO ===User password is: password5919
+2019-10-26 14:01:11,513 registerView.py[line:121] INFO ===User email is: george5560@qq.com
+2019-10-26 14:01:12,305 registerView.py[line:130] INFO ===click to register===
+2019-10-26 14:01:12,958 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 14:01:12,958 test_register.py[line:29] INFO None
+2019-10-26 14:01:15,236 common_fun.py[line:37] INFO =====cancel button does not exist in page =====
+2019-10-26 14:01:17,391 common_fun.py[line:50] INFO =====skip button does not exist in page =====
+2019-10-26 14:01:20,434 registerView.py[line:57] INFO =====Register button does not exist=====
+2019-10-26 14:01:22,924 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 14:01:26,781 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 14:01:32,683 registerView.py[line:101] INFO ===User account is: george6267
+2019-10-26 14:04:31,742 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 14:04:31,744 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 14:04:44,839 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 14:04:44,844 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 14:04:44,844 test_register.py[line:23] INFO =====test_user_register=====
+2019-10-26 14:04:45,822 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 14:04:46,919 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 14:04:51,766 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 14:04:55,144 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 14:05:03,667 registerView.py[line:101] INFO ===User account is: george6861
+2019-10-26 14:05:10,895 registerView.py[line:111] INFO ===User password is: password6397
+2019-10-26 14:05:17,476 registerView.py[line:121] INFO ===User email is: george5885@qq.com
+2019-10-26 14:05:18,291 registerView.py[line:130] INFO ===click to register===
+2019-10-26 14:05:18,890 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 14:05:20,149 registerView.py[line:149] INFO ===click year choice btn===
+2019-10-26 14:05:24,045 registerView.py[line:153] INFO ===select second year===
+2019-10-26 14:05:24,310 registerView.py[line:157] INFO ===start to choose school===
+2019-10-26 14:05:25,751 registerView.py[line:161] INFO ===choose school===
+2019-10-26 14:05:26,988 registerView.py[line:165] INFO ===choose second school
+2019-10-26 14:05:28,687 registerView.py[line:169] INFO ===start to choose your major===
+2019-10-26 14:05:30,571 registerView.py[line:173] INFO ===choose the thirds university===
+2019-10-26 14:05:31,718 registerView.py[line:177] INFO ===choose the second major===
+2019-10-26 14:05:35,653 registerView.py[line:181] INFO ===choose major finished===
+2019-10-26 14:05:35,774 registerView.py[line:185] INFO ===finished perform your personal information
+2019-10-26 14:05:40,381 registerView.py[line:195] INFO =====Welcome to kaoyanbang====
+2019-10-26 14:05:40,382 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 14:05:42,928 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 14:05:43,699 registerView.py[line:210] INFO register success!
+2019-10-26 14:05:43,699 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 14:05:45,336 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 14:05:45,336 test_register.py[line:29] INFO None
+2019-10-26 14:05:47,733 common_fun.py[line:37] INFO =====cancel button does not exist in page =====
+2019-10-26 14:05:49,746 common_fun.py[line:50] INFO =====skip button does not exist in page =====
+2019-10-26 14:05:53,317 registerView.py[line:57] INFO =====Register button does not exist=====
+2019-10-26 14:05:56,916 registerView.py[line:67] INFO =====Images choose element does not exists=====
+2019-10-26 14:05:59,954 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 14:20:56,826 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 14:21:11,628 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 14:21:11,634 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 14:21:13,013 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 14:21:14,071 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 14:21:19,700 LoginView.py[line:46] INFO =====input username:george9527====
+2019-10-26 14:21:25,370 LoginView.py[line:54] INFO =====input password:george9527====
+2019-10-26 14:21:26,112 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 14:22:04,101 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 14:22:19,767 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 14:22:19,771 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 14:22:21,010 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 14:22:22,056 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 14:22:27,340 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 14:22:31,099 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 14:22:39,627 registerView.py[line:101] INFO ===User account is: george8554
+2019-10-26 14:22:46,767 registerView.py[line:111] INFO ===User password is: password8554
+2019-10-26 14:22:52,836 registerView.py[line:121] INFO ===User email is: george8554@qq.com
+2019-10-26 14:22:53,628 registerView.py[line:130] INFO ===click to register===
+2019-10-26 14:22:54,269 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 14:22:55,240 registerView.py[line:149] INFO ===click year choice btn===
+2019-10-26 14:22:59,034 registerView.py[line:153] INFO ===select second year===
+2019-10-26 14:22:59,552 registerView.py[line:157] INFO ===start to choose school===
+2019-10-26 14:23:00,886 registerView.py[line:161] INFO ===choose school===
+2019-10-26 14:23:02,252 registerView.py[line:165] INFO ===choose second school
+2019-10-26 14:23:04,287 registerView.py[line:169] INFO ===start to choose your major===
+2019-10-26 14:23:05,446 registerView.py[line:173] INFO ===choose the thirds university===
+2019-10-26 14:23:06,335 registerView.py[line:177] INFO ===choose the second major===
+2019-10-26 14:23:10,258 registerView.py[line:181] INFO ===choose major finished===
+2019-10-26 14:23:10,395 registerView.py[line:185] INFO ===finished perform your personal information
+2019-10-26 14:23:15,850 registerView.py[line:195] INFO =====Welcome to kaoyanbang====
+2019-10-26 14:23:15,850 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 14:23:18,303 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 14:23:19,071 registerView.py[line:210] INFO register success!
+2019-10-26 14:23:19,071 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 14:23:20,767 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 14:23:20,767 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 14:23:23,001 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 14:23:26,242 registerView.py[line:210] INFO register success!
+2019-10-26 14:23:26,242 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 14:23:27,833 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 14:54:32,560 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 14:54:32,562 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 14:54:47,461 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 14:54:47,465 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 14:54:47,466 test_register.py[line:24] INFO =====test_user_register=====
+2019-10-26 14:54:49,024 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 14:54:50,201 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 14:54:56,344 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 14:54:59,752 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 14:55:08,545 registerView.py[line:101] INFO ===User account is: george7834
+2019-10-26 14:55:15,738 registerView.py[line:111] INFO ===User password is: password7462
+2019-10-26 14:55:21,909 registerView.py[line:121] INFO ===User email is: george7459@qq.com
+2019-10-26 14:55:22,576 registerView.py[line:130] INFO ===click to register===
+2019-10-26 14:55:23,232 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 14:55:27,910 registerView.py[line:149] INFO ===click year choice btn===
+2019-10-26 14:55:31,810 registerView.py[line:153] INFO ===select second year===
+2019-10-26 14:55:32,640 registerView.py[line:157] INFO ===start to choose school===
+2019-10-26 14:55:33,903 registerView.py[line:161] INFO ===choose school===
+2019-10-26 14:55:35,117 registerView.py[line:165] INFO ===choose second school
+2019-10-26 14:55:37,208 registerView.py[line:169] INFO ===start to choose your major===
+2019-10-26 14:55:38,838 registerView.py[line:173] INFO ===choose the thirds university===
+2019-10-26 14:55:39,650 registerView.py[line:177] INFO ===choose the second major===
+2019-10-26 14:55:43,587 registerView.py[line:181] INFO ===choose major finished===
+2019-10-26 14:55:43,712 registerView.py[line:185] INFO ===finished perform your personal information
+2019-10-26 14:55:49,014 registerView.py[line:195] INFO =====Welcome to kaoyanbang====
+2019-10-26 14:55:49,014 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 14:55:51,397 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 14:55:52,244 registerView.py[line:210] INFO register success!
+2019-10-26 14:55:52,244 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 14:55:54,041 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 14:55:54,042 test_register.py[line:30] INFO None
+2019-10-26 14:55:54,042 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 14:55:56,164 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 14:55:59,674 registerView.py[line:210] INFO register success!
+2019-10-26 14:55:59,674 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 14:56:01,286 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 14:56:01,286 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 15:02:12,766 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 15:02:12,768 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 15:02:26,937 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 15:02:26,942 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 15:02:26,942 test_register.py[line:24] INFO =====test_user_register=====
+2019-10-26 15:02:28,471 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 15:02:29,979 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 15:02:33,655 registerView.py[line:80] INFO =====choose second img=====
+2019-10-26 15:02:37,365 registerView.py[line:89] INFO =====save user image=====
+2019-10-26 15:02:46,018 registerView.py[line:101] INFO ===User account is: george6421
+2019-10-26 15:02:53,260 registerView.py[line:111] INFO ===User password is: password7520
+2019-10-26 15:02:59,513 registerView.py[line:121] INFO ===User email is: george5560@qq.com
+2019-10-26 15:03:00,280 registerView.py[line:130] INFO ===click to register===
+2019-10-26 15:03:00,887 registerView.py[line:139] INFO ===register successful begin to perfect your information===
+2019-10-26 15:03:03,455 registerView.py[line:149] INFO ===click year choice btn===
+2019-10-26 15:03:07,258 registerView.py[line:153] INFO ===select second year===
+2019-10-26 15:03:07,523 registerView.py[line:157] INFO ===start to choose school===
+2019-10-26 15:03:08,952 registerView.py[line:161] INFO ===choose school===
+2019-10-26 15:03:10,085 registerView.py[line:165] INFO ===choose second school
+2019-10-26 15:03:11,588 registerView.py[line:169] INFO ===start to choose your major===
+2019-10-26 15:03:13,119 registerView.py[line:173] INFO ===choose the thirds university===
+2019-10-26 15:03:14,285 registerView.py[line:177] INFO ===choose the second major===
+2019-10-26 15:03:18,343 registerView.py[line:181] INFO ===choose major finished===
+2019-10-26 15:03:18,469 registerView.py[line:185] INFO ===finished perform your personal information
+2019-10-26 15:03:23,123 registerView.py[line:195] INFO =====Welcome to kaoyanbang====
+2019-10-26 15:03:23,123 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 15:03:25,545 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 15:03:26,627 registerView.py[line:210] INFO register success!
+2019-10-26 15:03:26,627 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 15:03:28,329 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 15:03:28,329 test_register.py[line:30] INFO None
+2019-10-26 15:03:28,329 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 15:03:30,742 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 15:03:33,944 registerView.py[line:210] INFO register success!
+2019-10-26 15:03:33,945 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 15:03:35,566 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 15:03:35,566 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 15:03:38,047 registerView.py[line:200] INFO =====check register status=====
+2019-10-26 15:03:41,241 registerView.py[line:210] INFO register success!
+2019-10-26 15:03:41,241 common_fun.py[line:83] INFO =====Get register_success screen shot=====
+2019-10-26 15:03:43,171 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 15:03:43,171 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 17:19:30,077 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 17:19:30,078 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 17:19:50,579 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 17:19:50,584 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 17:19:50,585 test_login.py[line:21] INFO =====test login george9527=====
+2019-10-26 17:19:54,018 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 17:19:55,419 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 17:20:01,092 LoginView.py[line:46] INFO =====input username:george9527====
+2019-10-26 17:20:06,212 LoginView.py[line:54] INFO =====input password:george9527====
+2019-10-26 17:20:06,876 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 17:20:12,669 LoginView.py[line:69] INFO =====Welcome to kaoyanbang====
+2019-10-26 17:20:12,669 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 17:20:12,669 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 17:20:15,889 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 17:20:19,799 LoginView.py[line:98] INFO =====login success=====
+2019-10-26 17:20:19,812 LoginView.py[line:110] INFO =====click setting button=====
+2019-10-26 17:20:21,118 LoginView.py[line:118] INFO =====click logout=====
+2019-10-26 17:20:21,898 LoginView.py[line:126] INFO =====click commit button=====
+2019-10-26 17:20:23,895 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 17:24:53,826 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 17:24:53,829 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 17:25:06,706 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 17:25:06,712 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 17:25:06,712 test_login.py[line:31] INFO =====test login george6421=====
+2019-10-26 17:25:08,380 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 17:25:09,499 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 17:25:15,111 LoginView.py[line:46] INFO =====input username:george6421====
+2019-10-26 17:25:20,398 LoginView.py[line:54] INFO =====input password:password7520====
+2019-10-26 17:25:21,097 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 17:25:26,394 LoginView.py[line:69] INFO =====Welcome to kaoyanbang====
+2019-10-26 17:25:26,394 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 17:25:26,394 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 17:25:29,766 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 17:25:33,961 LoginView.py[line:98] INFO =====login success=====
+2019-10-26 17:25:34,000 LoginView.py[line:110] INFO =====click setting button=====
+2019-10-26 17:25:36,540 LoginView.py[line:118] INFO =====click logout=====
+2019-10-26 17:25:37,310 LoginView.py[line:126] INFO =====click commit button=====
+2019-10-26 17:25:38,753 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 17:29:49,987 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 17:29:49,989 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 17:30:03,185 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 17:30:03,191 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 17:30:03,191 test_login.py[line:38] INFO =====test login with error account=====
+2019-10-26 17:30:04,995 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 17:30:06,123 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 17:30:11,769 LoginView.py[line:46] INFO =====input username:george9525====
+2019-10-26 17:30:16,965 LoginView.py[line:54] INFO =====input password:george9525====
+2019-10-26 17:30:17,632 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 17:30:21,057 LoginView.py[line:66] INFO =====into info does not exist in page =====
+2019-10-26 17:30:21,057 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 17:30:21,057 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 17:30:24,257 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 17:30:30,620 LoginView.py[line:94] ERROR login Fail!
+2019-10-26 17:30:30,621 common_fun.py[line:83] INFO =====Get login Fail screen shot=====
+2019-10-26 17:30:32,102 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 17:30:32,103 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 17:46:57,319 run_test.py[line:32] INFO ===start to run test case===
+2019-10-26 17:46:57,319 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 17:46:57,321 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 17:47:10,693 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 17:47:10,699 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 17:47:10,699 test_login.py[line:30] INFO =====test login george6421=====
+2019-10-26 17:47:12,070 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 17:47:13,258 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 17:47:18,902 LoginView.py[line:46] INFO =====input username:george6421====
+2019-10-26 17:47:24,155 LoginView.py[line:54] INFO =====input password:password7520====
+2019-10-26 17:47:24,912 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 17:47:30,173 LoginView.py[line:69] INFO =====Welcome to kaoyanbang====
+2019-10-26 17:47:30,173 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 17:47:30,173 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 17:47:33,339 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 17:47:37,717 LoginView.py[line:98] INFO =====login success=====
+2019-10-26 17:47:37,738 LoginView.py[line:110] INFO =====click setting button=====
+2019-10-26 17:47:39,519 LoginView.py[line:118] INFO =====click logout=====
+2019-10-26 17:47:40,327 LoginView.py[line:126] INFO =====click commit button=====
+2019-10-26 17:47:41,298 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 17:47:47,454 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 17:47:47,456 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 17:48:03,158 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 17:48:03,161 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 17:48:03,161 test_login.py[line:38] INFO =====test login with error account=====
+2019-10-26 17:48:04,376 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 17:48:05,665 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 17:48:11,351 LoginView.py[line:46] INFO =====input username:george9525====
+2019-10-26 17:48:17,061 LoginView.py[line:54] INFO =====input password:george9525====
+2019-10-26 17:48:17,721 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 17:48:21,089 LoginView.py[line:66] INFO =====into info does not exist in page =====
+2019-10-26 17:48:21,089 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 17:48:21,089 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 17:48:24,266 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 17:48:30,713 LoginView.py[line:94] ERROR login Fail!
+2019-10-26 17:48:30,713 common_fun.py[line:83] INFO =====Get login Fail screen shot=====
+2019-10-26 17:48:32,243 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 17:48:32,243 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 17:48:38,073 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 17:48:38,076 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 17:48:53,776 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 17:48:53,784 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 17:48:53,784 test_login.py[line:22] INFO =====test login george9527=====
+2019-10-26 17:48:54,975 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 17:48:56,605 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 17:49:02,379 LoginView.py[line:46] INFO =====input username:george9527====
+2019-10-26 17:49:07,714 LoginView.py[line:54] INFO =====input password:george9527====
+2019-10-26 17:49:08,385 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 17:49:13,707 LoginView.py[line:69] INFO =====Welcome to kaoyanbang====
+2019-10-26 17:49:13,708 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 17:49:13,708 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 17:49:16,974 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 17:49:20,999 LoginView.py[line:98] INFO =====login success=====
+2019-10-26 17:49:21,101 LoginView.py[line:110] INFO =====click setting button=====
+2019-10-26 17:49:24,724 LoginView.py[line:118] INFO =====click logout=====
+2019-10-26 17:49:25,498 LoginView.py[line:126] INFO =====click commit button=====
+2019-10-26 17:49:28,490 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 18:09:31,819 toolkit.py[line:61] INFO ===最近生成的汇报文件为:2019-10-26_17_46_57test_report.html===
+2019-10-26 18:09:31,847 toolkit.py[line:65] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_17_46_57test_report.html
+2019-10-26 18:09:33,873 toolkit.py[line:45] INFO ===开始发送邮件===
+2019-10-26 18:09:35,543 toolkit.py[line:49] INFO ===邮件发送完成===
+2019-10-26 18:20:41,889 toolkit.py[line:113] INFO ===最近生成的汇报文件为:2019-10-26_17_46_57test_report.html===
+2019-10-26 18:20:41,889 toolkit.py[line:117] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_17_46_57test_report.html
+2019-10-26 18:21:38,704 toolkit.py[line:113] INFO ===最近生成的汇报文件为:2019-10-26_17_46_57test_report.html===
+2019-10-26 18:21:38,704 toolkit.py[line:117] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_17_46_57test_report.html
+2019-10-26 18:21:41,990 toolkit.py[line:99] INFO Send finished...
+2019-10-26 18:22:56,812 toolkit.py[line:113] INFO ===最近生成的汇报文件为:2019-10-26_17_46_57test_report.html===
+2019-10-26 18:22:56,812 toolkit.py[line:117] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_17_46_57test_report.html
+2019-10-26 18:22:59,308 toolkit.py[line:99] INFO Send finished...
+2019-10-26 18:25:57,481 toolkit.py[line:113] INFO ===最近生成的汇报文件为:2019-10-26_17_46_57test_report.html===
+2019-10-26 18:25:57,481 toolkit.py[line:117] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_17_46_57test_report.html
+2019-10-26 18:26:00,048 toolkit.py[line:99] INFO Send finished...
+2019-10-26 18:26:50,881 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_17_46_57test_report.html===
+2019-10-26 18:26:50,881 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_17_46_57test_report.html
+2019-10-26 18:26:53,498 toolkit.py[line:100] INFO Send finished...
+2019-10-26 18:27:31,412 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_17_46_57test_report.html===
+2019-10-26 18:27:31,413 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_17_46_57test_report.html
+2019-10-26 18:27:33,858 toolkit.py[line:100] INFO Send finished...
+2019-10-26 18:29:23,226 run_test.py[line:33] INFO ===start to run test case===
+2019-10-26 18:29:23,226 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 18:29:23,228 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 18:29:36,135 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 18:29:36,141 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 18:29:36,141 test_login.py[line:30] INFO =====test login george6421=====
+2019-10-26 18:29:37,495 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 18:29:38,635 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 18:29:44,359 LoginView.py[line:46] INFO =====input username:george6421====
+2019-10-26 18:29:49,565 LoginView.py[line:54] INFO =====input password:password7520====
+2019-10-26 18:29:50,235 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 18:29:55,398 LoginView.py[line:69] INFO =====Welcome to kaoyanbang====
+2019-10-26 18:29:55,398 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 18:29:55,398 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 18:29:58,788 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 18:30:03,119 LoginView.py[line:98] INFO =====login success=====
+2019-10-26 18:30:03,227 LoginView.py[line:110] INFO =====click setting button=====
+2019-10-26 18:30:04,448 LoginView.py[line:118] INFO =====click logout=====
+2019-10-26 18:30:05,232 LoginView.py[line:126] INFO =====click commit button=====
+2019-10-26 18:30:07,037 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 18:30:13,118 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 18:30:13,120 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 18:30:27,985 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 18:30:27,989 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 18:30:27,989 test_login.py[line:38] INFO =====test login with error account=====
+2019-10-26 18:30:29,443 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 18:30:30,708 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 18:30:36,343 LoginView.py[line:46] INFO =====input username:george9525====
+2019-10-26 18:30:41,447 LoginView.py[line:54] INFO =====input password:george9525====
+2019-10-26 18:30:42,142 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 18:30:45,421 LoginView.py[line:66] INFO =====into info does not exist in page =====
+2019-10-26 18:30:45,421 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 18:30:45,421 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 18:30:48,613 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 18:30:54,947 LoginView.py[line:94] ERROR login Fail!
+2019-10-26 18:30:54,947 common_fun.py[line:83] INFO =====Get login Fail screen shot=====
+2019-10-26 18:30:56,388 common_fun.py[line:85] INFO ======Screen shot end=====
+2019-10-26 18:30:56,388 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 18:31:02,194 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 18:31:02,196 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 18:31:16,767 driver_handler.py[line:44] INFO =====starting app,please wait=====
+2019-10-26 18:31:16,770 driver_handler.py[line:46] INFO =====wait to page refresh=====
+2019-10-26 18:31:16,771 test_login.py[line:22] INFO =====test login george9527=====
+2019-10-26 18:31:17,822 common_fun.py[line:40] INFO =====Click Cancel btn====
+2019-10-26 18:31:19,536 common_fun.py[line:53] INFO =====Click skip btn====
+2019-10-26 18:31:25,228 LoginView.py[line:46] INFO =====input username:george9527====
+2019-10-26 18:31:30,550 LoginView.py[line:54] INFO =====input password:george9527====
+2019-10-26 18:31:31,200 LoginView.py[line:62] INFO =====click to login====
+2019-10-26 18:31:36,651 LoginView.py[line:69] INFO =====Welcome to kaoyanbang====
+2019-10-26 18:31:36,651 LoginView.py[line:84] INFO =====check login status=====
+2019-10-26 18:31:36,651 common_fun.py[line:89] INFO =====Check advertisement=====
+2019-10-26 18:31:39,850 LoginView.py[line:73] INFO =====check account logoff alert=====
+2019-10-26 18:31:43,929 LoginView.py[line:98] INFO =====login success=====
+2019-10-26 18:31:43,955 LoginView.py[line:110] INFO =====click setting button=====
+2019-10-26 18:31:45,135 LoginView.py[line:118] INFO =====click logout=====
+2019-10-26 18:31:45,989 LoginView.py[line:126] INFO =====click commit button=====
+2019-10-26 18:31:47,962 myunit.py[line:22] INFO =====tearDown=====
+2019-10-26 18:31:53,951 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_18_29_23test_report.html===
+2019-10-26 18:31:53,951 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_18_29_23test_report.html
+2019-10-26 18:31:56,307 toolkit.py[line:100] INFO Send finished...
+2019-10-26 19:02:28,261 run_test.py[line:40] INFO ===start to run test case===
+2019-10-26 19:02:28,261 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 19:02:28,263 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 19:09:33,066 run_test.py[line:40] INFO ===start to run test case===
+2019-10-26 19:09:33,067 myunit.py[line:18] INFO =====setUp=====
+2019-10-26 19:09:33,069 driver_handler.py[line:42] INFO =====Begin to connect phone=====
+2019-10-26 19:33:32,391 run_test.py[line:55] INFO ===start to run test case===
+2019-10-26 19:33:32,392 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_33_32test_report.html===
+2019-10-26 19:33:32,392 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_33_32test_report.html
+2019-10-26 19:34:50,998 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_33_32test_report.html===
+2019-10-26 19:34:50,998 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_33_32test_report.html
+2019-10-26 19:44:00,281 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_33_32test_report.html===
+2019-10-26 19:44:00,282 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_33_32test_report.html
+2019-10-26 19:44:02,249 toolkit.py[line:46] INFO ===开始发送邮件===
+2019-10-26 19:44:02,939 toolkit.py[line:50] INFO ===邮件发送完成===
+2019-10-26 19:45:43,104 run_test.py[line:52] INFO ===start to run test case===
+2019-10-26 19:45:43,106 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_45_43test_report.html===
+2019-10-26 19:45:43,106 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_45_43test_report.html
+2019-10-26 19:46:01,412 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_45_43test_report.html===
+2019-10-26 19:46:01,413 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_45_43test_report.html
+2019-10-26 19:53:15,587 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_45_43test_report.html===
+2019-10-26 19:53:15,588 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_45_43test_report.html

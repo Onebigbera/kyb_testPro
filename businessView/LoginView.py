@@ -96,6 +96,7 @@ class LoginView(Common):
             return False
         else:
             logging.info("=====login success=====")
+            # to logoff for next test case every time login then logoff
             self.logout_action()
             return True
 
