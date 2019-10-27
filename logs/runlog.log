@@ -624,3 +624,7 @@
 2019-10-26 19:46:01,413 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_45_43test_report.html
 2019-10-26 19:53:15,587 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_45_43test_report.html===
 2019-10-26 19:53:15,588 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_45_43test_report.html
+2019-10-27 14:11:54,969 toolkit.py[line:114] INFO ===最近生成的汇报文件为:2019-10-26_19_45_43test_report.html===
+2019-10-27 14:11:55,004 toolkit.py[line:118] INFO 最近生成的文件路径为: F:/Appium/Projects/kyb_testPro/reports\2019-10-26_19_45_43test_report.html
+2019-10-27 14:11:56,733 toolkit.py[line:46] INFO ===开始发送邮件===
+2019-10-27 14:11:58,201 toolkit.py[line:50] INFO ===邮件发送完成===

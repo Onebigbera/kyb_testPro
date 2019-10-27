@@ -9,10 +9,10 @@
 import sys
 path = 'F:\\Appium\\Projects\\kyb_testPro\\'
 path1 = 'F:\\Appium\\Projects\\kyb_testPro\\common\\'
-path2 = 'F:\\Appium\\Projects\\kyb_testPro\\baseView\\'
-path3 = 'F:\\Appium\\Projects\\kyb_testPro\\businessView\\'
-path4 = 'F:\\Appium\\Projects\\kyb_testPro\\testCase\\'
-path5 = 'F:\\Appium\\Projects\\kyb_testPro\\testRun\\'
+# path2 = 'F:\\Appium\\Projects\\kyb_testPro\\baseView\\'
+# path3 = 'F:\\Appium\\Projects\\kyb_testPro\\businessView\\'
+# path4 = 'F:\\Appium\\Projects\\kyb_testPro\\testCase\\'
+# path5 = 'F:\\Appium\\Projects\\kyb_testPro\\testRun\\'
 # 在导入包之前就要先将项目路径添加到环境变量中，否则还是不能生效
 sys.path.append(path)
 sys.path.append(path1)
